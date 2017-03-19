@@ -20,7 +20,7 @@ public class A {
 		System.out.println("Testing Commit4");
 		System.out.println("Testing Commit5");
 		System.out.println("Testing Commit6");
-		
+		System.out.println("commit2");
 	}
 
 	void display()
