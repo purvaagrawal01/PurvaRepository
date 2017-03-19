@@ -19,6 +19,8 @@ public class A {
 		System.out.println("Testing Commit3");
 		System.out.println("Testing Commit4");
 		System.out.println("Testing Commit5");
+		System.out.println("Testing Commit6");
+		
 	}
 
 	void display()
