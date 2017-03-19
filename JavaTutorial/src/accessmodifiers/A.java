@@ -15,6 +15,7 @@ public class A {
 		System.out.println(a.t);
 		System.out.println();
 		System.out.println("Testing Commit");
+		System.out.println("Testing Commit2");
 		
 	}
 
